@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 
 class ManagerColors {
-  static Color primaryColor = Colors.blue.shade700;
-  static Color secondaryColor = Colors.blue.shade200;
-  static const Color white = Colors.white;
-  static const Color transparent = Colors.transparent;
-  static const Color gray = Colors.grey;
+  static Color primaryColor = Colors.teal;
+  static Color secondaryColor = Colors.brown;
+  static Color brown200 = Colors.brown.shade300;
+  static Color transparent = Colors.transparent;
+  static Color white = Colors.white;
+  static Color black = Colors.black;
+  static Color white70 = Colors.white70;
 
 }
